@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm a student at Université Laval.<br>I'm currently working with PHP and HTMX.<br>I'm looking to collaborate on a lot of programming spheres, especially the backend part.<br>I'm also learning machine learning with Python to later look into AI.<br>I'm solving LeetCode problems to enhance my programming logic and efficiency.
+<ul>
+  <li>I'm a student at Université Laval.</li>
+  <li>I'm currently working with PHP and HTMX.</li>
+  <li>I'm looking to collaborate on a lot of programming spheres, especially the backend part.</li>
+  <li>I'm also learning machine learning with Python to later look into AI.</li>
+  <li>I'm solving LeetCode problems to enhance my programming logic and efficiency.</li>
+</ul>
 
 
 ## 🌐 Socials:
