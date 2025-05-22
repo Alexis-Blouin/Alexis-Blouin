@@ -5,6 +5,8 @@
   <li>I'm looking to collaborate on a lot of programming spheres, especially the backend part.</li>
   <li>I'm also learning machine learning with Python to later look into AI.</li>
   <li>I'm solving LeetCode problems to enhance my programming logic and efficiency.</li>
+  <li>Sorry if you see a lot of French and you don't speak the language, I'm from Quebec, so all my school projects are in French</li>
+  <li>Don't hesitate to reach out to me if you would like further explanations!</li>
 </ul>
 
 
